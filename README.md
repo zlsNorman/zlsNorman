@@ -16,7 +16,7 @@
 
 <div style="display: flex; flex-direction: column;">
   
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zlsnorman&show_icons=true&locale=en&layout=compact&theme=dark" alt="zlsnorman" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zlsnorman&show_icons=true&locale=en&layout=compact&theme=dark"  alt="zlsnorman" /></p>
 
   <h3 >Connect with me:</h3>
   <p >
