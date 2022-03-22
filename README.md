@@ -17,6 +17,6 @@
 
 <h3 align="left">My Favorite Project:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/zlsNorman/spaceInvaders)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlsnorman&repo=spaceInvaders&theme=dark)](https://github.com/zlsNorman/spaceInvaders)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zlsnorman&show_icons=true&locale=en&layout=compact&theme=dark" alt="zlsnorman" /></p>
