@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **React, NextJs, PHP**
+- 🌱 I’m currently learning **React, NextJs, Tailwind, PHP**
 
 - 📫 How to reach me **janlingottcoding@gmail.com**
 
