@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Lingott</h1>
 
-- 🌱 I’m currently learning **React, NextJs, Tailwind, PHP**
+- 🌱 I’m currently learning **React, NextJs, ,Jest ,Tailwind, PHP**
 
 - 📫 How to reach me **janlingottcoding@gmail.com**
 
